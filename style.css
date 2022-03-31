@@ -121,6 +121,14 @@ grid-row: 3;
 font-family: Myriad Pro;
 }
 
+.header-img-{
+width: 100%;
+height: 202px;
+background: url('CaveWeta_SteveAttwood.JPG');
+background-size: cover;
+}
+
+
 .box_5{
 background-color: #fff;
 padding-left: 10px;
