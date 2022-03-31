@@ -122,10 +122,9 @@ font-family: Myriad Pro;
 }
 
 .sidebar-img{
-width: 100%;
+width: 100px;
 height: 100px;
 background: url('CaveWeta_SteveAttwood.JPG');
-background-size: cover;
 }
 
 
