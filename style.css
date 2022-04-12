@@ -6,7 +6,7 @@ background-color: #e3e3e3;
 height: auto;
 display: grid;
 grid-template-rows: 202px 50px 500px 5%;
-grid-template-columns: 3fr 1fr;
+grid-template-columns: 2fr 2fr 1fr;
 grid-gap: 10px;
 padding-top: 10px;
 padding-left: 10px;
@@ -15,7 +15,7 @@ padding-right: 10px;
 
 .box_1{
 background-color: white;
-grid-column: 1/5;
+grid-column: 1/6;
 grid-row: 1;
 }
 
@@ -29,7 +29,7 @@ background-size: cover;
 
 .nav{
 background-color: #9e9753;
-grid-column: 1/4;
+grid-column: 1/6;
 grid-row: 2;
 font-family: Myriad Pro;
 font-size: 16px;
@@ -116,7 +116,7 @@ z-index: 2;
 .box_4{
 background-color: #fff;
 padding-left: 10px;
-grid-column: 3/3;
+grid-column: 3/6;
 grid-row: 3;
 font-family: Myriad Pro;
 }
@@ -131,7 +131,7 @@ background: url('CaveWeta_SteveAttwood.JPG');
 .box_5{
 background-color: #fff;
 padding-left: 10px;
-grid-column: 1/4;
+grid-column: 1/6;
 grid-row: 4;
 font-family: Myriad Pro;
 }
